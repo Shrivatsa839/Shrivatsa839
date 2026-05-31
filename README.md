@@ -14,12 +14,10 @@
 
 ## 🚀 About Me
 
-* 🎓 Third Year EXTC Student at Sipna College of Engineering & Technology
+* 🎓 Final Year EXTC Student at Sipna College of Engineering & Technology
 * 🤖 Passionate about Artificial Intelligence & Machine Learning
 * 💻 MERN Stack & Python Developer
 * ⚡ Exploring VLSI & Embedded Systems
-* 👨‍🏫 Part-Time SSC Chemistry Teacher
-* 🎤 Singer | Lyricist | Composer | Poet
 * 🌱 Currently learning Advanced Machine Learning & Cloud Technologies
 
 ---
@@ -107,7 +105,11 @@
 
 ## 🎯 Leadership
 
-👑 Public Relations Officer (PDC)
+👑 General Secratary (GS) : 10 Days Annual Gathering at Sipna COET Amravati
+
+👑 Public Relations Officer (Personality Development Club)
+
+✅ Managed a 10 days Annual Gathering while leading 10 different teams with 10 different events
 
 ✅ Organized Technical Workshops
 
