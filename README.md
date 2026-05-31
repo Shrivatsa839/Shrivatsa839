@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shrivatsa839/Shrivatsa839/main/profile.jpg" width="220"/>
+</p>
 # <h1 align="center">Hi 👋, I'm Shrivatsa Khandare</h1>
 
 <h3 align="center">AI & Machine Learning Enthusiast | MERN Stack Developer | Python Developer </h3>
