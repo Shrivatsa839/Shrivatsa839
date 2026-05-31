@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Shrivatsa Khandare</h1>
 
-<h3 align="center">AI & Machine Learning Enthusiast | MERN Stack Developer | Python Developer | Musician 🎵</h3>
+<h3 align="center">AI & Machine Learning Enthusiast | MERN Stack Developer | Python Developer | </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;MERN+Stack+Developer;VLSI+%26+Embedded+Systems+Learner;Singer+%7C+Lyricist+%7C+Poet" />
@@ -155,23 +155,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shrivatsa839&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
 ### ✨ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
-### 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Shrivatsa839\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
 
 ---
 
